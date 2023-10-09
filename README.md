@@ -12,7 +12,7 @@
   
 <img height="180em" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
 
-I'm on my way to Full-stack.
+Full-Stack under development.
 
 <details>
   <summary> More about me</summary>
@@ -34,10 +34,9 @@ const pedro = {
                 CSS: ['styled-components', 'Bootstrap', 'Sass'],
             },
             backEnd: {
-                Java: ['Spring'],
                 CSharp: ['ASP.NET'],
             },
-            database: ['PostgreSQL', 'MySQL', 'SQLServer'],
+            database: ['MySQL', 'SQLServer'],
         },
     }
 }
